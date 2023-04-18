@@ -20,8 +20,8 @@ const Navbar = () => {
           
         </div>
         <div className='right'>
-          <div className='nav_menu_item'>Register</div>
-          <div className='nav_menu_item'>Sign In</div>
+          <div className='nav_menu_item'>REGISTER</div>
+          <div className='nav_menu_item'>SIGN IN</div>
           <div className='nav_menu_item'>
             <Badge badgeContent={4} color="primary">
               <ShoppingCartIcon color="action" />
